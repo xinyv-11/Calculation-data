@@ -1,1 +1,3 @@
+Calculation-data
+
 There are four files in total, which are the original data of the article images, and the file names correspond to the image names. Figure 2: POSCAR and PROCAR of NbS2 and MoS2 monolayers and bilayers; Figure 3: POSCAR and PROCAR of NbS2 and MoS2 under normal loading; Figure 4: Energy decomposition data of NbS2 and MoS2 under normal phase loading; Figure 5: Energy decomposition data of NbSe2 and VS2 under normal loading.
