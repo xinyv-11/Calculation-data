@@ -1,10 +1,12 @@
-Calculation-data
+Data-For-Interlayer-Frictional-Potential.zip
 
-There are four files in total, namely Figure 2-5.
+This file contains four parts, each corresponding to Figure 2 to Figure 5 in our work (Effect of metallicity on interlayer frictional potential energy of transition-metal dichalcogenides under normal load), and is named after Figure X 
 
-Figure 2: Structure and band information of NbS₂ and MoS₂ monolayers and bilayers;
+This file contains four parts, each corresponding to Figure 2 to Figure 5 in our work (paper title), and named after Figure X
 
-Figure 3: Structure and band information of NbS₂ and MoS₂ under normal loading;
+Figure 2: Crystal structure(POSCAR) and band information(PROCAR) of NbS₂ and MoS₂ monolayers and bilayers;
+
+Figure 3: Crystal structure(POSCAR) and band information(PROCAR) of NbS₂ and MoS₂ under normal loading;
 
 Figure 4: Energy decomposition data of NbS₂ and MoS₂ under normal loading;
 
